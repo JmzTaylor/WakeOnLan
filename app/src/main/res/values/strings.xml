@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Server</string>
+    <string name="power_on">Power On</string>
+    <string name="power_off">Power Off</string>
+    <string name="server_status">Server Status: </string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="refresh">Refresh</string>
+</resources>
